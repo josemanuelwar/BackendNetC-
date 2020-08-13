@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1Nb+kiQNHD4BMRmAWxAiWe64kdAsYQQTVIkYK8xN0IVYsGHCKBRulk3iQuwliP3kO01pIfAqnvMQTBnG9xOzjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\josem\\Desktop\\ReactNative\\BackendNetC#\\Aplicacion\\Aplicacion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\josem\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\josem\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

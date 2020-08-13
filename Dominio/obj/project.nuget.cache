@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3dti4oLJp6Vjw0bFNvzXkvy7qXJqdYcU6WObmMPkz+hBFtbOPV7770wsj9+GlIqT9jRz/ZL0zWLUtsImC+Guew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\josem\\Desktop\\ReactNative\\BackendNetC#\\Dominio\\Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\josem\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\josem\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
